@@ -76,7 +76,7 @@ The course provides an overview of molecular modeling and simulations methods in
 #### Модуль 1. Introduction and orientation (1 неделя)
 <details><summary><ins>Лекция 1</ins> Вводная лекция. История, виды и основы методов биомолекулярного моделирования.</summary> Понятия молекулярного моделирования, имитационного моделирования, интегративного моделирования. История развития методов молекулярной динамики, методов Монте-Карло. Подходы к созданию моделей структур по экспериментальным данным. Различные методы и границы их применимости. Понятия ab initio и in silico. Современные пакеты для молекулярного моделирования. Современные пакеты для визуализации PDB структур. Суперкомпьютеры в молекулярном моделировании.
 
-<a href="https://www.dropbox.com/scl/fi/v6uoyfhbrb8famzac9tpz/Lecture1_2025.ppt?rlkey=w68voamn23iva012694sisbvd&dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/scl/fi/t37wsdshk5ytl5fkldh46/Lecture1_2026.ppt?rlkey=y3e5n9076r8iowwb5yxs844sh&dl=0">Слайды лекции.</a> 
 
 <br>
 
