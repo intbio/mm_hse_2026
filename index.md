@@ -1,21 +1,30 @@
 <a href="https://github.com/intbio/mm_hse_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Molecular Modeling and Simulations (HSE) (Fall 2025)
+# Molecular Modeling and Simulations (HSE) (Fall 2026)
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
 - Teaching assistants: Nikita Kosarim
-- [Telegram link](https://t.me/+fMUEuEJSXSQyMjli)
+- [Telegram link](https://t.me/+q_9iGcIy3QE3Zjhi)
 - [Folder with presentations]()
-- [Home work folder](https://www.dropbox.com/request/UVrM4mwxXDbtCG54mP2N)
+- [Home work folder](https://www.dropbox.com/request/87dvoq2deot6ady1w5fy)
 
 ### Meetings and Location
-- Classroom: G406
- 
 1 модуль: 
-9.09 - 21.10
+25 сентября - D210
+2 октября - R613
+9 октября - D210
+16 октября - R615
+23 октября - R611
+24 октября - 11:10-14:20 R603
 
-2 модуль: 
-11.11 - 16.12
+2 модуль:
+6 ноября - D507
+13 ноября- R603
+20 ноября - R603
+27 ноября - R603
+4 декабря - R603
+11 декабря - R603
+18 декабря - R603
 
 - Lectures-Seminars: Fridays 18:10-21:00
 
