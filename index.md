@@ -77,7 +77,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <details><summary><ins>Лекция 1</ins> Вводная лекция. История, виды и основы методов биомолекулярного моделирования.</summary> Понятия молекулярного моделирования, имитационного моделирования, интегративного моделирования. История развития методов молекулярной динамики, методов Монте-Карло. Подходы к созданию моделей структур по экспериментальным данным. Различные методы и границы их применимости. Понятия ab initio и in silico. Современные пакеты для молекулярного моделирования. Современные пакеты для визуализации PDB структур. Суперкомпьютеры в молекулярном моделировании.
 
 <a href="https://www.dropbox.com/scl/fi/v6uoyfhbrb8famzac9tpz/Lecture1_2025.ppt?rlkey=w68voamn23iva012694sisbvd&dl=0">Слайды лекции.</a> 
-<a href="https://distant.bioeng.ru/playback/presentation/2.0/playback.html?meetingId=4578ef0cf123b710b7e95fdbfa8fbcc844ec6bc3-1612787489424">Запись лекции.</a> 
+
 <br>
 
 </details>
@@ -94,7 +94,8 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 --->
 <details><summary><ins>Suggested reading</ins></summary>
-     
+- <a href="https://biomolecula.ru/specials/molecular-dynamics">Спецпроект Биомолекулы о молекулярной динамике</a>
+<br>     
 - <a href="https://www.dropbox.com/s/vlkpzaiz0twzlsl/mol_model_history.pdf?dl=0">Методы молекулярного и интегративного моделирования в структурной биологии</a>
 <br>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980623/">John Kendrew and myoglobin: Protein structure determination in the 1950s</a><br>
