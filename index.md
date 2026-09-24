@@ -1,4 +1,4 @@
-<a href="https://github.com/intbio/mm_hse_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<a href="https://github.com/intbio/mm_hse_2026/edit/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # Molecular Modeling and Simulations (HSE) (Fall 2026)
 
 ### Contact information
